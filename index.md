@@ -1,5 +1,4 @@
-# Samuel Bradley-Kelly
-### Data Scientist & Machine Learning Engineer
+### Expert Data Scientist & Machine Learning Engineer
 [GitHub](https://github.com/sambk17) | [LinkedIn](https://www.linkedin.com/in/sambk17)
 
 [cite_start]Innovative and collaborative scientist with over 10 years of experience in entertainment, fintech, and aerospace[cite: 4]. [cite_start]Currently pursuing an **M.S. in Computer Science (AI)** at Georgia Institute of Technology[cite: 15].
