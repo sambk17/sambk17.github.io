@@ -1,19 +1,23 @@
 ### Expert Data Scientist and Machine Learning Engineer
 
-<img src="./assets/images/sambk_headshot.jpg" width="200" style="border-radius: 50%;" alt="Samuel Bradley-Kelly">
+<img src="./assets/images/sambk_headshot.jpg" width="200" height="200" style="border-radius: 15px; float: left; margin-right: 20px;" alt="Samuel Bradley-Kelly">
 
 [GitHub](https://github.com/sambk17) | [LinkedIn](https://www.linkedin.com/in/sambk17)
 
 Innovative and collaborative scientist with over a decade of experience in entertainment, fintech, and aerospace. Currently wrapping up an **M.S. in Computer Science (AI)** at Georgia Institute of Technology.
 
+<div style="clear: both;"></div>
+
 ---
 
 <div style="background-color: #e6fffa; padding: 15px; border-radius: 8px;">
   <h2 style="color: #234e52; margin-top: 0;"> 🎓 CS Course Notes</h2>
+
 This site also serves as a repository for my notes, projects, and insights while navigating graduate-level CS programs.
 
 * [Course Name 1](./omscs-notes/course-1.md) – Brief description of what you learned.
 * [Course Name 2](./omscs-notes/course-2.md) – Focus on AI/ML applications.
+
 </div>
 
 ---
@@ -50,5 +54,5 @@ This site also serves as a repository for my notes, projects, and insights while
 
 ## 🏆 Honors & Interests
 * **Volunteer Mentor:** Supporting graduate students at the University of Washington and University of Chicago.
-* **Distance Running:** Multiple-time winner of local 5K races in the Seattle/Bellevue area.
+* **Distance Running:** Multiple-time winner of local 5K races (White Center & Bellevue) in the Seattle area.
 * **Youth Sports:** Served as a Grade 8 Youth Soccer Referee.
