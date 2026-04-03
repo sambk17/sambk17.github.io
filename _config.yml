@@ -1,0 +1,16 @@
+# Site settings
+title: Samuel Bradley-Kelly
+description: ML Engineer & OMSCS Student at Georgia Tech
+theme: minima
+
+# User info
+github_username: sambk17
+_show_downloads: false
+
+# Google Analytics (Optional)
+# google_analytics: [Your-UA-ID]
+
+# Markdown settings
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM # GitHub Flavored Markdown
