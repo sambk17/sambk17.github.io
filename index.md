@@ -1,6 +1,6 @@
 ### Expert Data Scientist & Machine Learning Engineer
 
-<img src="./assets/images/profile.jpg" width="200" style="border-radius: 50%;" alt="Samuel Bradley-Kelly">
+<img src="./assets/images/sambk_headshot.jpg" width="200" style="border-radius: 50%;" alt="Samuel Bradley-Kelly">
 
 [GitHub](https://github.com/sambk17) | [LinkedIn](https://www.linkedin.com/in/sambk17)
 
