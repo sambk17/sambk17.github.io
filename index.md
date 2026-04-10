@@ -1,4 +1,9 @@
-### Expert Data Scientist and Machine Learning Engineer
+---
+layout: default
+title: Home
+# Optional: Set a specific sub-title for SEO/accessibility if needed
+# subtitle: Expert Data Scientist and Machine Learning Engineer
+---
 
 <img src="./assets/images/sambk_headshot.jpg" width="200" style="border-radius: 15px; float: center; margin-right: 20px;" alt="Samuel Bradley-Kelly">
 
