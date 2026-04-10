@@ -10,13 +10,12 @@ Innovative and collaborative scientist with over a decade of experience in enter
 
 ---
 
-<div style="background-color: #e6fffa; padding: 15px; border-radius: 8px;">
-  <h2 style="color: #234e52; margin-top: 0;"> 🎓 Computer Science Notes</h2>
+<div style="background-color: #e6fffa; padding: 15px; border-radius: 8px;" markdown="1">
+## 🎓 Computer Science Notes
 
 This section serves as a repository for my notes, projects, experiments and insights while navigating graduate-level Computer Science courses.
 
 * [CS 6400 - Database Systems](https://gitlab.cs.washington.edu/sambk/cs_6400_fall_2023) – This is the third time I've taken this course at both the University of Washington (undergrad and grad school) and Georgia Tech (grad school).
-
 </div>
 
 ---
