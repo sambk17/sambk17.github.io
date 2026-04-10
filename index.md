@@ -11,6 +11,7 @@ Innovative and collaborative scientist with over a decade of experience in enter
 ---
 
 <div style="background-color: #e6fffa; padding: 15px; border-radius: 8px;" markdown="1">
+
 ## 🎓 Computer Science Notes
 
 This section serves as a repository for my notes, projects, experiments and insights while navigating graduate-level Computer Science courses.
