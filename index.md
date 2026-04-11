@@ -9,7 +9,7 @@ subtitle: Expert Data Scientist and Machine Learning Engineer
   <img src="./assets/images/sambk_headshot.jpg" width="200" height="200" style="border-radius: 15px;" alt="Samuel Bradley-Kelly">
 
   <p>
-    [GitHub](https://github.com/sambk17) | [LinkedIn - in hibernation (newborn)](https://www.linkedin.com/in/sambk17)
+    <a href="https://github.com/sambk17">GitHub</a> | <a href="https://www.linkedin.com/in/sambk17">LinkedIn - in hibernation (newborn 🐥)</a>
   </p>
 </div>
 
