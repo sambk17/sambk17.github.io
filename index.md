@@ -2,16 +2,18 @@
 layout: default
 title: Home
 # Optional: Set a specific sub-title for SEO/accessibility if needed
-# subtitle: Expert Data Scientist and Machine Learning Engineer
+subtitle: Expert Data Scientist and Machine Learning Engineer
 ---
 
-<img src="./assets/images/sambk_headshot.jpg" width="200" style="border-radius: 15px; float: center; margin-right: 20px;" alt="Samuel Bradley-Kelly">
+<div style="text-align: center;">
+  <img src="./assets/images/sambk_headshot.jpg" width="200" height="200" style="border-radius: 15px;" alt="Samuel Bradley-Kelly">
 
-[GitHub](https://github.com/sambk17) | [LinkedIn - in hibernation (newborn)](https://www.linkedin.com/in/sambk17)
+  <p>
+    [GitHub](https://github.com/sambk17) | [LinkedIn - in hibernation (newborn)](https://www.linkedin.com/in/sambk17)
+  </p>
+</div>
 
 Innovative and collaborative scientist with over a decade of experience in entertainment, fintech, and aerospace. Currently wrapping up an **M.S. in Computer Science (AI)** at Georgia Institute of Technology.
-
-<div style="clear: both;"></div>
 
 ---
 
