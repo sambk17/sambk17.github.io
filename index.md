@@ -23,7 +23,7 @@ Innovative and collaborative scientist with over a decade of experience in enter
 
 This section serves as a repository for my notes, projects, experiments and insights while navigating graduate-level Computer Science courses.
 
-* [CS 6400 - Database Systems](https://gitlab.cs.washington.edu/sambk/cs_6400_fall_2023) – This is the third time I've taken this course at both the University of Washington (undergrad and grad school) and Georgia Tech (grad school).
+* [CS 6400 - Database Systems](https://gitlab.cs.washington.edu/sambk/cs_6400_fall_2023) – This is [the third time](./blogs/dbs.md) I've taken this course at both the University of Washington (undergrad and grad school) and Georgia Tech (grad school).
 </div>
 
 ---
