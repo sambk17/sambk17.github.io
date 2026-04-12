@@ -14,3 +14,8 @@ _show_downloads: false
 kramdown:
   syntax_highlighter: rouge
   input: GFM # GitHub Flavored Markdown
+
+# Only show these pages in the top-right navigation
+header_pages:
+  - index.md
+  - blogs.md
