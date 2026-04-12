@@ -5,7 +5,7 @@ title: Blogs
 
 # ✍️ Engineering & Academic Blogs
 
-[cite_start]A collection of my thoughts on Data Science, ML Ops, and my journey through Georgia Tech's OMSCS[cite: 15].
+A collection of my thoughts on Data Science, ML Ops, AI and my journey through Georgia Tech's OMSCS.
 
 ---
 
