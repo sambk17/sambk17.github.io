@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Database Systems - The Hat Trick
-nav_exclude: true
 ---
 
 # Database Systems: The Hat Trick 🎩✨
