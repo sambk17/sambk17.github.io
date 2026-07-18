@@ -13,7 +13,7 @@ subtitle: Expert Data Scientist and Machine Learning Engineer
   </p>
 </div>
 
-Innovative and collaborative scientist with over a decade of experience in entertainment, fintech, and aerospace. Currently wrapping up an **M.S. in Computer Science (AI)** at Georgia Institute of Technology.
+Innovative and collaborative scientist with over a decade of experience in entertainment, fintech, automation, insurance and aerospace. Currently wrapping up an **M.S. in Computer Science (AI)** at Georgia Institute of Technology.
 
 ---
 
@@ -28,7 +28,11 @@ This section serves as a repository for my notes, projects, experiments and insi
 
 ---
 
-## 🚀 Career Highlights (Through 2024)
+## 🚀 Career Highlights
+
+<strong style="color: #2b6cb0;"> Capgemini (Present) </strong>
+* Lead Scientist and People's Manager within the AI&A practice.
+* Delivered end-to-end DS, ML & AI systems for clients in the entertainment, insurance and retail industries.
 
 <strong style="color: #2b6cb0;"> Urgently (2024) </strong>
 * Built predictive price optimization tools for a roadside assistance platform.
