@@ -30,7 +30,7 @@ This section serves as a repository for my notes, projects, experiments and insi
 
 ## 🚀 Career Highlights
 
-<strong style="color: #2b6cb0;"> Capgemini (Present) </strong>
+<strong style="color: #2b6cb0;"> Capgemini (2019-2020, Present) </strong>
 * Lead Scientist and People's Manager within the AI&A practice.
 * Delivered end-to-end DS, ML & AI systems for clients in the entertainment, insurance and retail industries.
 
